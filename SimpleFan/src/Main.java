@@ -4,7 +4,7 @@ public class Main {
         fan.printFanStatus();
 
         fan.pullSpeedCord();
-        fan.printFanStatus(); // speed 0,
+        fan.printFanStatus();
 
         fan.pullSpeedCord();
         fan.printFanStatus();
